@@ -21,6 +21,7 @@ THEN I exit the application, and the HTML is generated
 
 ## Demo
 YOUTUBE LINK : https://youtu.be/oICLgIQQEuc
+ <img src="/Pics\Screenshot (5).png">
 ## Installation
 
 To install this application, first, branch the Github Repo and clone the repo to your local machine. Then, you will need to install the node dependencies which can be done by running the npm install command in your terminal/bash shell. Once this has been completed, you are ready to use the
